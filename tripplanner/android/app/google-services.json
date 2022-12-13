@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "711533030310",
+    "project_id": "tripplanner-26cbd",
+    "storage_bucket": "tripplanner-26cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711533030310:android:a9365b8d178265dd33fd67",
+        "android_client_info": {
+          "package_name": "com.example.tripplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711533030310-2e7pb8rdrp3lseucrgqcmsfrp4narctl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzM4ZIcCqJNPupKtoDoQGpTVYFa_OMYPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711533030310-2e7pb8rdrp3lseucrgqcmsfrp4narctl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711533030310-sgvtquk20b2f9o5itp1rc92nt545b9j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripplanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
